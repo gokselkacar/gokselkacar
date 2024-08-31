@@ -9,7 +9,8 @@
 
 - [Customer Segmentation Using the K-means Algorithm for Targeted Marketing Strategies](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies) **|** Python (pandas, seaborn, matplotlib, numpy, plotly, sklearn)
 - [A/B Testing - Comparison of Button Performances on the Montana State University Library Website](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/AB_Testing_Project_Chi_Square_Test) **|** Python (pandas, matplotlib, numpy, scipy)
-- [A/B Testing - Comparison of Bidding Methods](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/AB_Testing_Project_Two_Sample_T_Test) **|** Python (pandas, seaborn, matplotlib, numpy, scipy, statsmodels) 
+- [A/B Testing - Comparison of Bidding Methods](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/AB_Testing_Project_Two_Sample_T_Test) **|** Python (pandas, seaborn, matplotlib, numpy, scipy, statsmodels)
+- [AMAZON - Calculating Product Ratings & Sorting Customer Reviews](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/Amazon_Rating_Products_Sorting_Reviews) **|** Python (pandas, math, scipy, sklearn)
 
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
