@@ -12,6 +12,7 @@
 - [A/B Testing - Comparison of Bidding Methods](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/AB_Testing_Project_Two_Sample_T_Test) **|** Python (pandas, seaborn, matplotlib, numpy, scipy, statsmodels)
 - [AMAZON - Calculating Product Ratings & Sorting Customer Reviews](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/Amazon_Rating_Products_Sorting_Reviews) **|** Python (pandas, math, scipy, sklearn)
 - [Customer Segmentation Process and Analysis](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/Customer_Segmentation_Process) **|** Python (pandas, seaborn)
+- [Customer_Lifetime_Value_Prediction](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/Customer_Lifetime_Value_Prediction) **|** Python (pandas, matplotlib, datetime, sklearn)
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
