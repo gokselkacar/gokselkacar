@@ -14,7 +14,7 @@
 - [Customer Segmentation Process and Analysis](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/Customer_Segmentation_Process) **|** Python (pandas, seaborn)
 - [Customer_Lifetime_Value_Prediction](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/Customer_Lifetime_Value_Prediction) **|** Python (pandas, matplotlib, datetime, sklearn)
 - [Music Library Database](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/Music_Library_Database) **|** SQL(SQLite3)
-- [OuickR Package](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/QuickR%20Package) **|** R (RStudio)
+- [QuickR Package](https://github.com/gokselkacar/My_Portfolio_Projects/tree/main/QuickR%20Package) **|** R (RStudio)
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
