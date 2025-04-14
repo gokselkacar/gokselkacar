@@ -21,7 +21,8 @@
 
 - **Languages** **|** Python, SQL(PostgreSQL, MySQL, SQLite), R
 - **Libraries** **|** Pandas,  Matplotlib, Seaborn, Plotly, NumPy, Scikit-Learn, TensorFlow, NLTK
-- **Technologies/Tools** **|** Power BI, Tableau, Jira, Trello, pgAdmin, MongoDB Compass, Anaconda, Jupyter Notebook, PyCharm, Visual Studio Code, GitHub, Microsoft Office, Canva, Adobe, Google Analytics/Ads, Facebook Ads, ClickUp
+- **Technologies/Tools** **|** Power BI, Tableau, Looker, Jira, Salesforce, ClickUp, Trello, DBeaver, pgAdmin, PostgreSQL, MySQL,
+SQLite, MongoDB, Google BigQuery, AWS S3, AWS Lambda, Apache Hadoop(Hive, Spark), RStudio, PyCharm, Jupyter, Notebook, Visual Studio Code, GitHub, Microsoft Office, Canva, Adobe Experience Cloud/Creative Suite, Google Analytics/Ads, Facebook Ads
 - **Statistics** **|** A/B Testing, Hypothesis Testing, one-way and two-way ANOVA, chi-square Tests, Regression and Correlation Analysis
 - **CRM Analytics** **|** RFM Customer Segmentation, CLV Prediction
 
