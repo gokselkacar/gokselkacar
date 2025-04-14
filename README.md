@@ -20,7 +20,7 @@
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
 - **Languages** **|** Python, SQL(PostgreSQL, MySQL, SQLite), R
-- **Libraries** **|** Pandas,  Matplotlib, Seaborn, Plotly, NumPy, Scikit-Learn, TensorFlow, NLTK
+- **Libraries** **|** pandas, NumPy, Matplotlib, Statsmodels, Scipy, Seaborn, scikit-learn, TensorFlow, Plotly, XGBoost, NLTK
 - **Technologies/Tools** **|** Power BI, Tableau, Looker, Jira, Salesforce, ClickUp, Trello, DBeaver, pgAdmin, PostgreSQL, MySQL,
 SQLite, MongoDB, Google BigQuery, AWS S3, AWS Lambda, Apache Hadoop(Hive, Spark), RStudio, PyCharm, Jupyter, Notebook, Visual Studio Code, GitHub, Microsoft Office, Canva, Adobe Experience Cloud/Creative Suite, Google Analytics/Ads, Facebook Ads
 - **Statistics** **|** A/B Testing, Hypothesis Testing, one-way and two-way ANOVA, chi-square Tests, Regression and Correlation Analysis
