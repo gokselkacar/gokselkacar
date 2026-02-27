@@ -1,11 +1,11 @@
- ![1724293158857](https://github.com/user-attachments/assets/a333f5a5-d41f-4a31-8603-a07d596c8c13)
+[![Gemini-Generated-Image-mskswwmskswwmsks.png](https://i.postimg.cc/3wHHMq6L/Gemini-Generated-Image-mskswwmskswwmsks.png)](https://postimg.cc/4Yw0VWXt)
 
 🔸 Versatile professional with 2 years of Business Analyst/Data Analyst experience and over 5 years in Business Administration and Marketing. Strong background in Business Intelligence (BI), project lifecycle management, business systems and requirements analysis, systems design, agile methodologies, Management information systems (MIS), statistical modeling, model evaluation, machine learning algorithms, exploratory data analysis (EDA), data cleaning and preprocessing, A/B Testing, data analysis and visualization, and extracting actionable insights using SQL, Python, R, Tableau, and Power BI.  
 
 🔸 Deep understanding of Digital Marketing and Advertising, Business Administration, Customer Relationship Management, E-commerce, International Trade, and Supply Chain Management with a proven track record in executing digital marketing strategies, branding, social media management, SEO/SEM, PPC campaigns, Canva, Adobe, Google Analytics/Ads, Facebook Ads, ClickUp.
 
 
-<img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://i.postimg.cc/dVYWJKs6/Gemini-Generated-Image-mskswwmskswwmsks.png">
+<img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
 - [K-means Customer Segmentation for Precision Marketing](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies) **|** Python (pandas, seaborn, matplotlib, numpy, plotly, sklearn)
 - [UI Element A/B Testing: MSU Library Website Optimization](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/AB_Testing_Project_Chi_Square_Test) **|** Python (pandas, matplotlib, numpy, scipy)
