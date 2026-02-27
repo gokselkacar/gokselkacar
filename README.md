@@ -5,7 +5,7 @@
 🔸 Deep understanding of Digital Marketing and Advertising, Business Administration, Customer Relationship Management, E-commerce, International Trade, and Supply Chain Management with a proven track record in executing digital marketing strategies, branding, social media management, SEO/SEM, PPC campaigns, Canva, Adobe, Google Analytics/Ads, Facebook Ads, ClickUp.
 
 
-<img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
+<img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://i.postimg.cc/dVYWJKs6/Gemini-Generated-Image-mskswwmskswwmsks.png">
 
 - [K-means Customer Segmentation for Precision Marketing](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies) **|** Python (pandas, seaborn, matplotlib, numpy, plotly, sklearn)
 - [UI Element A/B Testing: MSU Library Website Optimization](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/AB_Testing_Project_Chi_Square_Test) **|** Python (pandas, matplotlib, numpy, scipy)
