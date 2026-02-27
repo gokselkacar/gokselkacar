@@ -37,12 +37,14 @@ Building the product is only half the equation; I also engineer the data pipelin
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
 
-- **Languages** **|** Python, SQL(PostgreSQL, MySQL, SQLite), R
-- **Libraries** **|** pandas, NumPy, Matplotlib, Statsmodels, Scipy, Seaborn, scikit-learn, TensorFlow, Plotly, XGBoost, NLTK
-- **Technologies/Tools** **|** Power BI, Tableau, Looker, Jira, Salesforce, ClickUp, Trello, DBeaver, pgAdmin, PostgreSQL, MySQL,
-SQLite, MongoDB, Google BigQuery, AWS S3, AWS Lambda, Apache Hadoop(Hive, Spark), RStudio, PyCharm, Jupyter, Notebook, Visual Studio Code, GitHub, Microsoft Office, Canva, Adobe Experience Cloud/Creative Suite, Google Analytics/Ads, Facebook Ads
-- **Statistics** **|** A/B Testing, Hypothesis Testing, one-way and two-way ANOVA, chi-square Tests, Regression and Correlation Analysis
-- **CRM Analytics** **|** RFM Customer Segmentation, CLV Prediction
+* **Languages:** TypeScript, JavaScript, Python, SQL, PHP, R, GraphQL.
+* **Cloud & Infrastructure:** AWS (CDK, AppSync, RDS, Lambda, S3, EC2, CloudFront), Docker, Serverless Architecture, RESTful APIs.
+* **AI & Machine Learning:** Applied LLMs (OpenAI GPT, Claude, Gemini), Autonomous Coding Agents (Cursor, Claude Code), TensorFlow, Scikit-learn, XGBoost.
+* **Web & Mobile Development:** React Native (Expo), Next.js, React, Node.js, TailwindCSS, Prisma ORM.
+* **Data Engineering & Databases:** PostgreSQL, Google BigQuery, Apache Hadoop (Hive, Spark), ETL/CLI Data Pipelines.
+* **Data Science & Libraries:** Pandas, NumPy, GeoPandas, Statsmodels, Matplotlib, Seaborn, SciPy.
+* **Business Intelligence (BI):** Tableau, Power BI, Looker, Google Analytics.
+* **Product & Workflow:** Agile Methodologies, Jira, Git/GitHub, CI/CD workflows, A/B Testing, Conversion Rate Optimization (CRO).
 
 <p align=   "left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="python" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-1024.png" alt="mysql" width="40" height="40"/> </a> <a href="https://public.tableau.com/app/profile/gozdebarin" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://global-uploads.webflow.com/62014002185c7b256316ef63/6255a1110a24e5de8cfa2536_kn7ucNPv_400x400.png" alt="streamlit" width="40" height="40"/> </a> </p>
 
