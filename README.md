@@ -1,9 +1,27 @@
 [![Gemini-Generated-Image-mskswwmskswwmsks.png](https://i.postimg.cc/3wHHMq6L/Gemini-Generated-Image-mskswwmskswwmsks.png)](https://postimg.cc/4Yw0VWXt)
 
-🔸 Versatile professional with 2 years of Business Analyst/Data Analyst experience and over 5 years in Business Administration and Marketing. Strong background in Business Intelligence (BI), project lifecycle management, business systems and requirements analysis, systems design, agile methodologies, Management information systems (MIS), statistical modeling, model evaluation, machine learning algorithms, exploratory data analysis (EDA), data cleaning and preprocessing, A/B Testing, data analysis and visualization, and extracting actionable insights using SQL, Python, R, Tableau, and Power BI.  
+# Hi there! 👋 I'm Goksel Kacaroglu
 
-🔸 Deep understanding of Digital Marketing and Advertising, Business Administration, Customer Relationship Management, E-commerce, International Trade, and Supply Chain Management with a proven track record in executing digital marketing strategies, branding, social media management, SEO/SEM, PPC campaigns, Canva, Adobe, Google Analytics/Ads, Facebook Ads, ClickUp.
+**Technical AI Product Manager | AI Solutions Architect | Data & Business Analyst**
 
+I bridge the gap between complex software engineering, advanced data analytics, and commercial business growth. Currently, I focus on AI-augmented architecture—orchestrating autonomous AI agents and Large Language Models (LLMs) to design enterprise-grade cloud infrastructures and cross-platform applications. 
+
+Building the product is only half the equation; I also engineer the data pipelines and analyze the metrics to ensure every feature drives measurable revenue and exceptional user experiences.
+
+### ⚡ Technical Arsenal
+
+* **☁️ Cloud & Architecture:** AWS (CDK, AppSync, RDS, Lambda, S3), System Design, Serverless Architecture, Docker.
+* **🤖 AI & Orchestration:** Applied LLMs (OpenAI, Claude, Gemini), API Integrations, Prompt Engineering, Autonomous Coding Agents (Cursor, Claude Code).
+* **💻 Full-Stack Development:** React Native (Expo), Next.js, Node.js, TypeScript, JavaScript, GraphQL, RESTful APIs.
+* **📊 Data Engineering & Analytics:** Python, SQL, PostgreSQL, Google BigQuery, ETL Pipelines, Tableau, Power BI, Predictive Modeling.
+* **🎯 Product & Strategy:** Agile/Scrum, Jira, Go-To-Market (GTM) Strategy, A/B Testing, Conversion Rate Optimization (CRO).
+
+### 🚀 What I do
+* **Architect:** Design comprehensive AWS infrastructures and database schemas for scalable applications.
+* **Build:** Accelerate development by directing autonomous AI agents for full-stack deployment.
+* **Analyze:** Clean and normalize massive datasets (10,000+ records) to extract strategic business insights.
+
+📫 **Let's connect:** [Find me on LinkedIn](https://www.linkedin.com/in/gokselkacaroglu/)
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
