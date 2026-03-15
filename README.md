@@ -23,9 +23,9 @@ Building the product is only half the equation; I also engineer the data pipelin
 
 📫 **Let's connect:** [Find me on LinkedIn](https://www.linkedin.com/in/gokselkacaroglu/)
 
-## Selected Private Product Work
+## Selected Product Work
 
-These projects are built and maintained in private repositories. Public case-study versions are available in my portfolio repository.
+These products are built and maintained in private repositories. Public product summaries are available in my portfolio repository.
 
 - [START Canada Marketing Site](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-canada-marketing-site.md)
 - [START Jobs - Career Readiness Events Platform](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-jobs-career-readiness-events-platform.md)
