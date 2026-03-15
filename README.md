@@ -23,14 +23,14 @@ Building the product is only half the equation; I also engineer the data pipelin
 
 📫 **Let's connect:** [Find me on LinkedIn](https://www.linkedin.com/in/gokselkacaroglu/)
 
-<img width="1227" alt="Selected Product Work" src="./assets/selected-product-work-header-v3.png">
+<img width="1227" alt="Selected Products" src="./assets/selected-products-header-v1.png">
 
 These products are built and maintained in private repositories. Public product summaries and live links are available in my portfolio repository.
 
-- [START Canada Marketing Site](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-canada-marketing-site.md) | [Live](https://startnew.ca/) | Next.js marketing website
-- [START Jobs - Career Readiness Events Platform](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-jobs-career-readiness-events-platform.md) | [Live](https://startjobs.ca/) | bootcamps and workshop events platform
-- [START Employability Score Application](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-employability-score-application.md) | mobile and web employability testing app
-- [Start Yachts - Boat Marketplace](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-yachts-project.md) | boat marketplace platform
+- [START Canada Marketing Site](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/products/start-canada-marketing-site.md) | [Live](https://startnew.ca/) | Next.js marketing website
+- [START Jobs - Career Readiness Events Platform](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/products/start-jobs-career-readiness-events-platform.md) | [Live](https://startjobs.ca/) | bootcamps and workshop events platform
+- [START Employability Score Application](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/products/start-employability-score-application.md) | mobile and web employability testing app
+- [Start Yachts - Boat Marketplace](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/products/start-yachts-project.md) | boat marketplace platform
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
