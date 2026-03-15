@@ -23,7 +23,7 @@ Building the product is only half the equation; I also engineer the data pipelin
 
 📫 **Let's connect:** [Find me on LinkedIn](https://www.linkedin.com/in/gokselkacaroglu/)
 
-<img width="1227" alt="Selected Product Work" src="./assets/selected-product-work-header.svg">
+<img width="1227" alt="Selected Product Work" src="./assets/selected-product-work-header.png">
 
 These products are built and maintained in private repositories. Public product summaries and live links are available in my portfolio repository.
 
