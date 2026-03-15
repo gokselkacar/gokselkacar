@@ -23,6 +23,15 @@ Building the product is only half the equation; I also engineer the data pipelin
 
 📫 **Let's connect:** [Find me on LinkedIn](https://www.linkedin.com/in/gokselkacaroglu/)
 
+## Selected Private Product Work
+
+These projects are built and maintained in private repositories. Public case-study versions are available in my portfolio repository.
+
+- [START Canada Marketing Site](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-canada-marketing-site.md)
+- [START Jobs - Career Readiness Events Platform](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-jobs-career-readiness-events-platform.md)
+- [START Employability Score Application](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-employability-score-application.md)
+- [Start Yachts - Boat Marketplace](https://github.com/gokselkacar/My_Portfolio_Projects/blob/main/case-studies/start-yachts-project.md)
+
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
 - [K-means Customer Segmentation for Precision Marketing](https://github.com/gokselkacar/MY-PORTFOLIO-PROJECTS/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies) **|** Python (pandas, seaborn, matplotlib, numpy, plotly, sklearn)
@@ -56,4 +65,3 @@ Building the product is only half the equation; I also engineer the data pipelin
 <a href="https://www.linkedin.com/in/gokselkacaroglu/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="gokselkacaroglu" height="40" width="40" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmlnSlpSbnWdphFdRsLTNpXlDsHKsJPwTpWjmmTqrqJLbbGCBJxngnvqfkbVLrFffntkDw" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/zohanimasi-bundle-2/512/Gmail-1024.png" alt="@goksel.kacar" height="40" width="40" /></a> 
 </p>
-
