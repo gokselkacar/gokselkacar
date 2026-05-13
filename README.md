@@ -31,6 +31,8 @@ These products are built and maintained in private repositories. Public product 
 - [START Jobs - Career Readiness Events Platform](https://github.com/gokselkacar/selected-products/blob/main/products/start-jobs-career-readiness-events-platform.md) | [Live](https://startjobs.ca/) | bootcamps and workshop events platform
 - [START Employability Score Application](https://github.com/gokselkacar/selected-products/blob/main/products/start-employability-score-application.md) | mobile and web employability testing app
 - [Start Yachts - Boat Marketplace](https://github.com/gokselkacar/selected-products/blob/main/products/start-yachts-project.md) | boat marketplace platform
+- [Options Master](https://github.com/gokselkacar/selected-products/blob/main/products/options-master.md) | options research and paper-journal product
+- [Seed Jewelry](https://github.com/gokselkacar/selected-products/blob/main/products/seed-jewelry.md) | biodesign jewelry and urban pollinator corridor concept
 
 <img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
 
