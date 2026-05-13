@@ -1,32 +1,14 @@
-[![Gemini-Generated-Image-mskswwmskswwmsks.png](https://i.postimg.cc/3wHHMq6L/Gemini-Generated-Image-mskswwmskswwmsks.png)](https://postimg.cc/4Yw0VWXt)
+<img src="./assets/profile-hero.webp" alt="Cloud architecture, product dashboards, and data systems banner">
 
-# Hi there! 👋 I'm Goksel Kacaroglu
+# Goksel Kacaroglu
 
 **Technical AI Product Manager | AI Solutions Architect | Data & Business Analyst**
 
-I bridge the gap between complex software engineering, advanced data analytics, and commercial business growth. Currently, I focus on AI-augmented architecture—orchestrating autonomous AI agents and Large Language Models (LLMs) to design enterprise-grade cloud infrastructures and cross-platform applications. 
+I build and shape software products across cloud infrastructure, full-stack applications, data systems, and AI-assisted delivery. My work sits at the intersection of product strategy, AWS architecture, application development, and analytics: defining what should be built, coordinating how it gets built, and validating that the result creates measurable user and business value.
 
-Building the product is only half the equation; I also engineer the data pipelines and analyze the metrics to ensure every feature drives measurable revenue and exceptional user experiences.
+## Selected Products
 
-### ⚡ Technical Arsenal
-
-* **☁️ Cloud & Architecture:** AWS (CDK, AppSync, RDS, Lambda, S3), System Design, Serverless Architecture, Docker.
-* **🤖 AI & Orchestration:** Applied LLMs (OpenAI, Claude, Gemini), API Integrations, Prompt Engineering, Autonomous Coding Agents (Cursor, Claude Code).
-* **💻 Full-Stack Development:** React Native (Expo), Next.js, Node.js, TypeScript, JavaScript, GraphQL, RESTful APIs.
-* **📊 Data Engineering & Analytics:** Python, SQL, PostgreSQL, Google BigQuery, ETL Pipelines, Tableau, Power BI, Predictive Modeling.
-* **🎯 Product & Strategy:** Agile/Scrum, Jira, Go-To-Market (GTM) Strategy, A/B Testing, Conversion Rate Optimization (CRO).
-
-### 🚀 What I do
-* **Architect:** Design comprehensive AWS infrastructures and database schemas for scalable applications.
-* **Build:** Accelerate development by directing autonomous AI agents for full-stack deployment.
-* **Analyze:** Clean and normalize massive datasets (10,000+ records) to extract strategic business insights.
-
-📫 **Let's connect:** [Find me on LinkedIn](https://www.linkedin.com/in/gokselkacaroglu/)
-
-<img width="1227" alt="Selected Products" src="./assets/selected-products-header-v1.png">
-
-These products are built and maintained in private repositories. Public product summaries and live links are available in my [selected products repository](https://github.com/gokselkacar/selected-products).
-Each linked product page covers the product scope, user flows, technical stack, architecture, and delivery notes while keeping the private source code closed.
+These products are built and maintained in private repositories. Public product summaries, screenshots, demos, architecture notes, and live links are available in my [selected products repository](https://github.com/gokselkacar/selected-products).
 
 - [START Canada Marketing Site](https://github.com/gokselkacar/selected-products/blob/main/products/start-canada-marketing-site.md) | [Live](https://startnew.ca/) | Next.js marketing website
 - [START Jobs - Career Readiness Events Platform](https://github.com/gokselkacar/selected-products/blob/main/products/start-jobs-career-readiness-events-platform.md) | [Live](https://startjobs.ca/) | bootcamps and workshop events platform
@@ -35,36 +17,37 @@ Each linked product page covers the product scope, user flows, technical stack, 
 - [Options Master](https://github.com/gokselkacar/selected-products/blob/main/products/options-master.md) | options research and paper-journal product
 - [Seed Jewelry](https://github.com/gokselkacar/selected-products/blob/main/products/seed-jewelry.md) | biodesign jewelry and urban pollinator corridor concept
 
-<img width="1227" alt="Screen Shot 2023-04-25 at 10 58 58 PM" src="https://user-images.githubusercontent.com/90986708/234402332-3234c4a5-9ded-49ae-9e17-8c102a1e525d.png">
+## Public Portfolio Projects
 
-- [K-means Customer Segmentation for Precision Marketing](https://github.com/gokselkacar/portfolio/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies) **|** Python (pandas, seaborn, matplotlib, numpy, plotly, sklearn)
-- [UI Element A/B Testing: MSU Library Website Optimization](https://github.com/gokselkacar/portfolio/tree/main/AB_Testing_Project_Chi_Square_Test) **|** Python (pandas, matplotlib, numpy, scipy)
-- [Bidding Strategy Optimization: Statistical A/B Test Analysis](https://github.com/gokselkacar/portfolio/tree/main/AB_Testing_Project_Two_Sample_T_Test) **|** Python (pandas, seaborn, matplotlib, numpy, scipy, statsmodels)
-- [E-commerce Review Analytics: Intelligent Rating System](https://github.com/gokselkacar/portfolio/tree/main/Amazon_Rating_Products_Sorting_Reviews) **|** Python (pandas, math, scipy, sklearn)
-- [Multi-dimensional Customer Segmentation Analysis](https://github.com/gokselkacar/portfolio/tree/main/Customer_Segmentation_Process) **|** Python (pandas, seaborn)
-- [Predictive CLV Modeling: Customer Value Forecasting](https://github.com/gokselkacar/portfolio/tree/main/Customer_Lifetime_Value_Prediction) **|** Python (pandas, matplotlib, datetime, sklearn)
-- [Relational Music Catalog System (SQL Implementation)](https://github.com/gokselkacar/portfolio/tree/main/Music_Library_Database) **|** SQL(SQLite3)
-- [DataSwift-R: Statistical Analysis Acceleration Package](https://github.com/gokselkacar/portfolio/tree/main/QuickR%20Package) **|** R (RStudio)
-- [Market Predictor: ML-Based Stock Forecasting System](https://github.com/gokselkacar/portfolio/tree/main/Stock%20Price%20Prediction%20Tool) **|** Python (pandas, numpy, matplotlib, datetime, sklearn, yfinance, pytest)
+Public code and analysis projects are collected in my [portfolio repository](https://github.com/gokselkacar/portfolio).
 
-<img width="1227" alt="Screen Shot 2023-04-25 at 10 59 10 PM" src="https://user-images.githubusercontent.com/90986708/234402360-87bcd627-db68-4bfb-b6d8-557ebe3c551d.png">
+- [K-means Customer Segmentation for Precision Marketing](https://github.com/gokselkacar/portfolio/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies) | Python, pandas, seaborn, matplotlib, numpy, plotly, scikit-learn
+- [UI Element A/B Testing: MSU Library Website Optimization](https://github.com/gokselkacar/portfolio/tree/main/AB_Testing_Project_Chi_Square_Test) | Python, pandas, matplotlib, numpy, scipy
+- [Bidding Strategy Optimization: Statistical A/B Test Analysis](https://github.com/gokselkacar/portfolio/tree/main/AB_Testing_Project_Two_Sample_T_Test) | Python, pandas, seaborn, matplotlib, numpy, scipy, statsmodels
+- [E-commerce Review Analytics: Intelligent Rating System](https://github.com/gokselkacar/portfolio/tree/main/Amazon_Rating_Products_Sorting_Reviews) | Python, pandas, scipy, scikit-learn
+- [Multi-dimensional Customer Segmentation Analysis](https://github.com/gokselkacar/portfolio/tree/main/Customer_Segmentation_Process) | Python, pandas, seaborn
+- [Predictive CLV Modeling: Customer Value Forecasting](https://github.com/gokselkacar/portfolio/tree/main/Customer_Lifetime_Value_Prediction) | Python, pandas, matplotlib, datetime, scikit-learn
+- [Relational Music Catalog System](https://github.com/gokselkacar/portfolio/tree/main/Music_Library_Database) | SQL, SQLite
+- [DataSwift-R: Statistical Analysis Acceleration Package](https://github.com/gokselkacar/portfolio/tree/main/QuickR%20Package) | R, RStudio
+- [Market Predictor: ML-Based Stock Forecasting System](https://github.com/gokselkacar/portfolio/tree/main/Stock%20Price%20Prediction%20Tool) | Python, pandas, numpy, matplotlib, yfinance, pytest
 
-* **Languages:** TypeScript, JavaScript, Python, SQL, PHP, R, GraphQL.
-* **Cloud & Infrastructure:** AWS (CDK, AppSync, RDS, Lambda, S3, EC2, CloudFront), Docker, Serverless Architecture, RESTful APIs.
-* **AI & Machine Learning:** Applied LLMs (OpenAI GPT, Claude, Gemini), Autonomous Coding Agents (Cursor, Claude Code), TensorFlow, Scikit-learn, XGBoost.
-* **Web & Mobile Development:** React Native (Expo), Next.js, React, Node.js, TailwindCSS, Prisma ORM.
-* **Data Engineering & Databases:** PostgreSQL, Google BigQuery, Apache Hadoop (Hive, Spark), ETL/CLI Data Pipelines.
-* **Data Science & Libraries:** Pandas, NumPy, GeoPandas, Statsmodels, Matplotlib, Seaborn, SciPy.
-* **Business Intelligence (BI):** Tableau, Power BI, Looker, Google Analytics.
-* **Product & Workflow:** Agile Methodologies, Jira, Git/GitHub, CI/CD workflows, A/B Testing, Conversion Rate Optimization (CRO).
+## Technical Stack
 
-<p align=   "left">   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="python" width="40" height="40"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-1024.png" alt="mysql" width="40" height="40"/> </a> <a href="https://public.tableau.com/app/profile/gozdebarin" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://global-uploads.webflow.com/62014002185c7b256316ef63/6255a1110a24e5de8cfa2536_kn7ucNPv_400x400.png" alt="streamlit" width="40" height="40"/> </a> </p>
+| Area | Tools and platforms |
+| --- | --- |
+| Cloud and infrastructure | AWS CDK, AppSync, RDS, Lambda, S3, EC2, CloudFront, Docker, serverless architecture |
+| Web and mobile | Next.js, React, React Native, Expo, TypeScript, JavaScript, TailwindCSS, REST APIs, GraphQL |
+| Data and analytics | Python, SQL, PostgreSQL, Google BigQuery, ETL pipelines, Tableau, Power BI, predictive modeling |
+| AI and automation | OpenAI, Claude, Gemini, prompt engineering, autonomous coding agents, AI-assisted product workflows |
+| Product and delivery | Product strategy, Agile/Scrum, Jira, GTM strategy, A/B testing, conversion analysis, CI/CD workflows |
 
-<img width="1227" alt="Screen Shot 2023-04-25 at 10 59 21 PM" src="https://user-images.githubusercontent.com/90986708/234402381-920efaf5-73d5-4d0a-ac8e-cbcd67a99398.png">
+## How I Work
 
+- **Architect:** Design AWS-backed application architectures, database schemas, and deployment paths.
+- **Build:** Coordinate AI-assisted development across frontend, backend, mobile, and infrastructure work.
+- **Analyze:** Clean and model datasets, validate product behavior, and translate metrics into product decisions.
 
+## Contact
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gokselkacaroglu/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="gokselkacaroglu" height="40" width="40" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmlnSlpSbnWdphFdRsLTNpXlDsHKsJPwTpWjmmTqrqJLbbGCBJxngnvqfkbVLrFffntkDw" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/zohanimasi-bundle-2/512/Gmail-1024.png" alt="@goksel.kacar" height="40" width="40" /></a> 
-</p>
+- [LinkedIn](https://www.linkedin.com/in/gokselkacaroglu/)
+- [goksel.kacar@hotmail.com](mailto:goksel.kacar@hotmail.com)
