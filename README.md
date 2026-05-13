@@ -30,7 +30,7 @@ Each linked product page covers the product scope, user flows, technical stack, 
 
 - [START Canada Marketing Site](https://github.com/gokselkacar/selected-products/blob/main/products/start-canada-marketing-site.md) | [Live](https://startnew.ca/) | Next.js marketing website
 - [START Jobs - Career Readiness Events Platform](https://github.com/gokselkacar/selected-products/blob/main/products/start-jobs-career-readiness-events-platform.md) | [Live](https://startjobs.ca/) | bootcamps and workshop events platform
-- [START Employability Score Application](https://github.com/gokselkacar/selected-products/blob/main/products/start-employability-score-application.md) | mobile and web employability testing app
+- [START Employability Score Application](https://github.com/gokselkacar/selected-products/blob/main/products/start-employability-score-application.md) | [Demo](https://startnew.ca/projects#employability-score) | mobile and web employability testing app
 - [Start Yachts - Boat Marketplace](https://github.com/gokselkacar/selected-products/blob/main/products/start-yachts-project.md) | boat marketplace platform
 - [Options Master](https://github.com/gokselkacar/selected-products/blob/main/products/options-master.md) | options research and paper-journal product
 - [Seed Jewelry](https://github.com/gokselkacar/selected-products/blob/main/products/seed-jewelry.md) | biodesign jewelry and urban pollinator corridor concept
