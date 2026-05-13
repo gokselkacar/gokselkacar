@@ -26,6 +26,7 @@ Building the product is only half the equation; I also engineer the data pipelin
 <img width="1227" alt="Selected Products" src="./assets/selected-products-header-v1.png">
 
 These products are built and maintained in private repositories. Public product summaries and live links are available in my [selected products repository](https://github.com/gokselkacar/selected-products).
+Each linked product page covers the product scope, user flows, technical stack, architecture, and delivery notes while keeping the private source code closed.
 
 - [START Canada Marketing Site](https://github.com/gokselkacar/selected-products/blob/main/products/start-canada-marketing-site.md) | [Live](https://startnew.ca/) | Next.js marketing website
 - [START Jobs - Career Readiness Events Platform](https://github.com/gokselkacar/selected-products/blob/main/products/start-jobs-career-readiness-events-platform.md) | [Live](https://startjobs.ca/) | bootcamps and workshop events platform
