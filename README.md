@@ -26,7 +26,7 @@ Agents are good at a lot of this work, but early on I kept fixing the same kinds
 
 <img src="./assets/readme/system.webp" width="100%" alt="What I maintain behind the rules: 12 skills I wrote for recurring jobs, 12 worker profiles each with a fixed model, effort and tool set, 3 review tiers set by the files a change touches, and 1 delivery specification shared by every repository.">
 
-The full method, with templates you can copy, is in [how-i-work](https://github.com/gokselkacar/how-i-work).
+The rules in full, with the templates I use, are in [how-i-work](https://github.com/gokselkacar/how-i-work).
 
 ## Where I do this now
 
@@ -49,20 +49,17 @@ Work for StartNew Technologies and my own projects. The source is private, so ea
 <a href="https://startnew.ca/platform/start-coach"><img src="./assets/readme/work-films.webp" width="49.5%" alt="Product films: short films recorded from the real product on a demo account and edited as code."></a>
 <a href="https://github.com/gokselkacar/how-i-work"><img src="./assets/readme/work-method.webp" width="49.5%" alt="How I work: the operating model, review rules and templates behind everything on this page."></a>
 
-## Setting up AI workflows
+## What I learned setting this up
 
-Most of what I've learned about coding agents came from running them every day on real products and fixing what broke. If your team is starting out, these are the things I'm happy to talk through:
+Most of this came from running agents every day on real products and fixing what broke.
 
-- what agents may do alone, and what needs a person;
-- how to review and verify agent-written code so it can be trusted;
-- how to split work between a coordinator and parallel workers;
-- where agents help outside engineering, such as marketing, content, documents and operations;
-- which guards to add first, and which rules to write down;
-- how to choose models and keep usage and CI costs in check.
+- Agents need written limits. For each environment there is a short list of what they may do alone and what waits for me.
+- The agent that writes a change should not be the one that says it works.
+- Review effort follows risk. Documentation changes get a light review, and risky parts of the code get more.
+- Parallel agents multiply whatever process you already have, good or bad.
+- The same habits carry over to copy, films and documents. A draft is still a draft until I have read it.
 
-[Where to start](https://github.com/gokselkacar/how-i-work/blob/main/docs/07-where-to-start.md) gives the order I would do it in.
-
-<a href="https://www.linkedin.com/in/gokselkacaroglu/"><img src="./assets/readme/cta.webp" width="100%" alt="Starting with coding agents on your team? I'm happy to compare notes on rules, review and where to begin. Message me on LinkedIn."></a>
+[The order I would set it up in again](https://github.com/gokselkacar/how-i-work/blob/main/docs/07-where-to-start.md)
 
 ## Tools and context
 
