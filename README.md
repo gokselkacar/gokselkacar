@@ -1,76 +1,86 @@
-<img src="./assets/profile-banner.webp" alt="I build software by directing AI agents. Product strategy, agent orchestration and technical delivery. A diagram of the delivery loop: brief, agents build, review, verify, ship.">
+<img src="./assets/readme/banner.webp" width="100%" alt="I built and run a team of AI agents. Product, engineering, marketing, content and operations. A diagram of the work loop: brief, agents work, review, verify, ship.">
 
 # Goksel Kacaroglu
 
-**AI Solution Developer at StartNew Technologies | Product Strategy, AI Agent Orchestration & Technical Delivery**
+**AI Solution Developer. I work across product, engineering, marketing, content and operations with AI agents.**
 
-I build software products by directing AI coding agents. I decide what to build and why, turn stakeholder needs into requirements and user journeys, and run the agent workflow that writes, reviews and ships the code.
+I work with a team of AI agents that I set up and direct. A lot of my work goes into the setup they work under. I built it over months of daily use on real products, and I still change it as I learn. It covers what an agent may do alone, skills for recurring jobs, review levels set by risk, and an independent check before anything ships.
 
-I've been at StartNew Technologies since October 2025. Before that I worked in data analysis, business analysis, e-commerce and marketing, which is why I tend to start from the user and the business case and work back to the technical choice.
+My part is planning the work, splitting it between agents, checking their reviews and deciding what gets built and what ships. The agents do most of the hands-on work. They write and review code, draft marketing copy, cut product films, prepare documents and handle daily operations.
 
-| Measure | To date |
-| --- | --- |
-| Products | 4 private product repositories across web, mobile and cloud |
-| Merged pull requests | 2,000+ since March 2026, about 1,600 of them since September 2026 |
-| Agent platforms | Codex and Claude Code, each reviewing the other's work |
-| Assessment content | 10,000+ questions curated with AI-assisted quality checks |
+My background is in data analysis, business analysis, e-commerce and marketing, so I start from the user and the business case and work back to the technical choice.
+
+<a href="https://www.linkedin.com/in/gokselkacaroglu/"><img src="./assets/readme/pill-linkedin.webp" height="36" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:goksel.kacar@hotmail.com"><img src="./assets/readme/pill-email.webp" height="36" alt="Email"></a>&nbsp;
+<a href="https://github.com/gokselkacar/how-i-work"><img src="./assets/readme/pill-method.webp" height="36" alt="How I work"></a>
+
+## What I do
+
+<img src="./assets/readme/what-i-do.webp" width="100%" alt="Six areas. Product strategy: I decide what to build and why, then turn needs into requirements, user journeys and acceptance criteria. Software delivery: I plan the work, split it between agents and check their reviews, and a separate agent verifies each change before it merges. Marketing and content: I set the message and the voice, agents draft site copy, product pages and case studies, and I edit them. Video and images: agents record product films from the real product and edit them as code, and I direct them and review each cut. Documents and decisions: agents research the options and write specs, policies and decision briefs, and I read them and decide. Operations: agents handle releases, monitoring, costs and trackers under rules I wrote, and production changes wait for my approval.">
 
 ## How I work
 
-- **One coordinator, many workers.** I talk to one agent session. It hands bounded tasks to workers and is the only one that may merge or deploy.
-- **Review by risk.** Every change gets a tier from the files it touches. Higher tiers get two different models reviewing them.
-- **Independent verification.** A change is done when an agent that did not write it has run it and the checks pass on the exact commit.
-- **Written authority.** Agents run the dev environment themselves. Staging and production wait for my approval, one action at a time.
-- **Decisions on record.** Agents search what I already decided before they recommend anything, so I don't answer the same question twice.
+Agents are good at a lot of this work, but early on I kept fixing the same kinds of mistakes. These five rules are what I found I needed, each one added after something went wrong without it.
+
+<a href="https://github.com/gokselkacar/how-i-work"><img src="./assets/readme/how-i-work.webp" width="100%" alt="Five rules. 1: one coordinator, many workers. 2: review by risk. 3: independent verification. 4: written authority. 5: decisions on record."></a>
+
+<img src="./assets/readme/system.webp" width="100%" alt="What I maintain behind the rules: 12 skills I wrote for recurring jobs, 12 worker profiles each with a fixed model, effort and tool set, 3 review tiers set by the files a change touches, and 1 delivery specification shared by every repository.">
 
 The full method, with templates you can copy, is in [how-i-work](https://github.com/gokselkacar/how-i-work).
 
-My day-to-day development activity is under my work account, [START-Canada](https://github.com/START-Canada), in private repositories.
+## Where I do this now
 
-## Selected product work
+I am the AI Solution Developer at StartNew Technologies, where I have worked since October 2025. I lead product for its career-readiness platform, events platform, boat marketplace and company website, and I run the agent workflow that builds and operates them.
 
-Case studies for products whose source is private are in [selected-products](https://github.com/gokselkacar/selected-products).
+<img src="./assets/readme/numbers.webp" width="100%" alt="At StartNew Technologies: 2,000+ merged pull requests since March 2026. 4 products across web, mobile and cloud. 10,000+ assessment questions curated with AI-assisted checks. 2 agent platforms, each reviewing the other's work.">
 
-- [START Employability Score Platform](https://github.com/gokselkacar/selected-products/blob/main/products/start-employability-score-application.md): Career-readiness workflows across web and mobile, including assessments, AI coaching, resume analysis and interview simulation. [Product overview](https://startnew.ca/projects#employability-score).
-- [START Jobs](https://github.com/gokselkacar/selected-products/blob/main/products/start-jobs-career-readiness-events-platform.md): Event discovery, workshops and bootcamp registration, being connected to the wider START career-readiness experience. [Website](https://startjobs.ca/).
-- [Start Yachts](https://github.com/gokselkacar/selected-products/blob/main/products/start-yachts-project.md): A separate boat and yacht marketplace with listing discovery, detail pages and contact workflows. [Website](https://www.startyachts.com/).
-- [START Canada Marketing Site](https://github.com/gokselkacar/selected-products/blob/main/products/start-canada-marketing-site.md): Program discovery, product presentation and contact journeys. [Website](https://startnew.ca/).
-- [Options Master](https://github.com/gokselkacar/selected-products/blob/main/products/options-master.md): A personal options-research and paper-journal product. No live trade execution.
-- [Seed Jewelry](https://github.com/gokselkacar/selected-products/blob/main/products/seed-jewelry.md): A product concept with biodegradable jewelry, an interactive configurator and a planting map.
+That day-to-day activity is under my work account, [START-Canada](https://github.com/START-Canada), in private repositories.
+
+## Selected work
+
+Work for StartNew Technologies and my own projects. The source is private, so each product card opens a public case study in [selected-products](https://github.com/gokselkacar/selected-products).
+
+<a href="https://github.com/gokselkacar/selected-products/blob/main/products/start-employability-score-application.md"><img src="./assets/readme/work-career-platform.webp" width="49.5%" alt="Career-readiness platform (START Employability Score): role-based assessments, an employability score and AI career tools, with branded portals for colleges."></a>
+<a href="https://github.com/gokselkacar/selected-products/blob/main/products/start-jobs-career-readiness-events-platform.md"><img src="./assets/readme/work-events-platform.webp" width="49.5%" alt="Events and workshops platform (START Jobs): event discovery and registration for career workshops and bootcamps."></a>
+<a href="https://github.com/gokselkacar/selected-products/blob/main/products/start-yachts-project.md"><img src="./assets/readme/work-marketplace.webp" width="49.5%" alt="Boat and yacht marketplace (Start Yachts): listing discovery, detail pages and contact workflows for boat buyers."></a>
+<a href="https://github.com/gokselkacar/selected-products/blob/main/products/start-canada-marketing-site.md"><img src="./assets/readme/work-marketing-site.webp" width="49.5%" alt="Company and product website (START Canada): pages for each audience, product films and contact routing."></a>
+<a href="https://github.com/gokselkacar/selected-products/blob/main/products/options-master.md"><img src="./assets/readme/work-research-tool.webp" width="49.5%" alt="Options research journal (Options Master, personal): quote lookup, evidence capture, scenario review and a paper journal. It places no trades."></a>
+<a href="https://github.com/gokselkacar/selected-products/blob/main/products/seed-jewelry.md"><img src="./assets/readme/work-concept.webp" width="49.5%" alt="Seed jewelry configurator (Seed Jewelry, personal concept): a biodegradable jewelry concept with a ring configurator and a planting map."></a>
+<a href="https://startnew.ca/platform/start-coach"><img src="./assets/readme/work-films.webp" width="49.5%" alt="Product films: short films recorded from the real product on a demo account and edited as code."></a>
+<a href="https://github.com/gokselkacar/how-i-work"><img src="./assets/readme/work-method.webp" width="49.5%" alt="How I work: the operating model, review rules and templates behind everything on this page."></a>
 
 ## Setting up AI workflows
 
-Most of what I've learned about coding agents came from running them every day on real products and fixing what broke. If your team is starting out, these are the questions I can help with:
+Most of what I've learned about coding agents came from running them every day on real products and fixing what broke. If your team is starting out, these are the things I'm happy to talk through:
 
 - what agents may do alone, and what needs a person;
 - how to review and verify agent-written code so it can be trusted;
 - how to split work between a coordinator and parallel workers;
+- where agents help outside engineering, such as marketing, content, documents and operations;
 - which guards to add first, and which rules to write down;
 - how to choose models and keep usage and CI costs in check.
 
-[Where to start](https://github.com/gokselkacar/how-i-work/blob/main/docs/07-where-to-start.md) gives the order I would do it in. If you want to compare notes, message me on LinkedIn.
+[Where to start](https://github.com/gokselkacar/how-i-work/blob/main/docs/07-where-to-start.md) gives the order I would do it in.
 
-## Product and technical context
+<a href="https://www.linkedin.com/in/gokselkacaroglu/"><img src="./assets/readme/cta.webp" width="100%" alt="Starting with coding agents on your team? I'm happy to compare notes on rules, review and where to begin. Message me on LinkedIn."></a>
 
-I work with these technologies through product definition, architecture review, AI-assisted implementation and verification.
+## Tools and context
 
 | Area | Context |
 | --- | --- |
 | Product and UX | Requirements analysis, stakeholder communication, user journeys, A/B testing, Jira |
 | AI-assisted delivery | Codex, Claude Code, agent instructions and skills, model selection, review and verification |
 | Web, mobile and cloud | Next.js, React, React Native, Expo, TypeScript, AWS, PostgreSQL, REST and GraphQL |
+| Content and media | Remotion, scripted browser recording, ffmpeg |
 | Data and analytics | Python, SQL, R, Google BigQuery, Tableau, Power BI |
 
-## Earlier data work
+<details>
+<summary>Earlier data work</summary>
 
 My [portfolio](https://github.com/gokselkacar/portfolio) holds independent analyses and notebooks from before my product role.
 
-- [MSU Library button-label analysis](https://github.com/gokselkacar/portfolio/tree/main/AB_Testing_Project_Chi_Square_Test): Compared click-through data for five navigation labels with chi-square tests and made a follow-up UX recommendation.
-- [K-means customer segmentation](https://github.com/gokselkacar/portfolio/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies): Explored the Mall Customers dataset, compared customer groups and proposed marketing hypotheses.
-
-<details>
-<summary>More public projects</summary>
-
+- [MSU Library button-label analysis](https://github.com/gokselkacar/portfolio/tree/main/AB_Testing_Project_Chi_Square_Test): compared click-through data for five navigation labels with chi-square tests and made a follow-up UX recommendation.
+- [K-means customer segmentation](https://github.com/gokselkacar/portfolio/tree/main/Customer%20Segmentation%20Using%20the%20K-means%20Algorithm%20for%20Targeted%20Marketing%20Strategies): explored the Mall Customers dataset, compared customer groups and proposed marketing hypotheses.
 - [Bidding strategy A/B analysis](https://github.com/gokselkacar/portfolio/tree/main/AB_Testing_Project_Two_Sample_T_Test)
 - [E-commerce ratings and review analysis](https://github.com/gokselkacar/portfolio/tree/main/Amazon_Rating_Products_Sorting_Reviews)
 - [Customer segmentation analysis](https://github.com/gokselkacar/portfolio/tree/main/Customer_Segmentation_Process)
@@ -80,8 +90,3 @@ My [portfolio](https://github.com/gokselkacar/portfolio) holds independent analy
 - [Stock price forecasting exploration](https://github.com/gokselkacar/portfolio/tree/main/Stock%20Price%20Prediction%20Tool)
 
 </details>
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/gokselkacaroglu/)
-- [goksel.kacar@hotmail.com](mailto:goksel.kacar@hotmail.com)
