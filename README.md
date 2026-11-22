@@ -8,7 +8,7 @@ I build software products by directing AI coding agents. I decide what to build 
 
 I've been at StartNew Technologies since October 2025. Before that I worked in data analysis, business analysis, e-commerce and marketing, which is why I tend to start from the user and the business case and work back to the technical choice.
 
-| | |
+| Measure | To date |
 | --- | --- |
 | Products | 4 private product repositories across web, mobile and cloud |
 | Merged pull requests | 2,000+ since March 2026, about 1,600 of them since September 2026 |
