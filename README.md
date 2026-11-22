@@ -1,4 +1,4 @@
-<img src="./assets/profile-hero-v3.webp" alt="I build products by directing AI agents. Screens from the START Employability Score Platform on web and mobile.">
+<img src="./assets/profile-banner.webp" alt="I build software by directing AI agents. Product strategy, agent orchestration and technical delivery. A diagram of the delivery loop: brief, agents build, review, verify, ship.">
 
 # Goksel Kacaroglu
 
