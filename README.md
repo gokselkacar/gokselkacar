@@ -1,4 +1,4 @@
-<img src="./assets/profile-hero.webp" alt="Product interfaces, cloud architecture and data workflows">
+<img src="./assets/profile-hero-v3.webp" alt="I build products by directing AI agents. Screens from the START Employability Score Platform on web and mobile.">
 
 # Goksel Kacaroglu
 
