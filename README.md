@@ -4,11 +4,11 @@
 
 **AI Solution Developer. I work across product, engineering, marketing, content and operations with AI agents.**
 
-I work with a team of AI agents that I set up and direct. A lot of my work goes into the setup they work under. I built it over months of daily use on real products, and I still change it as I learn. It covers what an agent may do alone, skills for recurring jobs, review levels set by risk, and an independent check before anything ships.
+I turn business and user needs into products, combining a background in data analysis, business, e-commerce and marketing with practical experience in AI-assisted product development.
 
-My part is planning the work, splitting it between agents, checking their reviews and deciding what gets built and what ships. The agents do most of the hands-on work. They write and review code, draft marketing copy, cut product films, prepare documents and handle daily operations.
+A major part of my work is designing how a team of AI agents works together. I built the setup they work under over months of daily use on real products, and I still change it as I learn. The agents do most of the hands-on work, from code to marketing copy, product films, documents and daily operations. I plan it, check their reviews and decide what ships.
 
-My background is in data analysis, business analysis, e-commerce and marketing, so I start from the user and the business case and work back to the technical choice.
+I enjoy connecting the business and technical sides of a problem: deciding what matters, explaining trade-offs clearly, and helping turn ideas into practical products.
 
 <a href="https://www.linkedin.com/in/gokselkacaroglu/"><img src="./assets/readme/pill-linkedin.webp" height="36" alt="LinkedIn"></a>&nbsp;
 <a href="mailto:goksel.kacar@hotmail.com"><img src="./assets/readme/pill-email.webp" height="36" alt="Email"></a>&nbsp;
